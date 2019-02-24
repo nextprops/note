@@ -8,7 +8,7 @@
 ```
 ### [地图相关知识整理(地理信息)](https://github.com/hedongxiaoshimei/webMap/blob/master/%E5%9C%B0%E5%9B%BE%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86(%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF).md)
 ```
-整理了地理信息（ GIS ）的一些知识，一些粗浅的个人见解 2019.2.23更新
+整理了地理信息（ GIS ）的一些知识，一些粗浅的个人见解 2019.2.24更新
 ```
 ### [地图相关知识整理(瓦片地图)](https://github.com/hedongxiaoshimei/webMap/blob/master/%E5%9C%B0%E5%9B%BE%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86(%E7%93%A6%E7%89%87%E5%9C%B0%E5%9B%BE).md)
 ```
