@@ -18,9 +18,13 @@
 ```
 搬运了大佬的译文 2019.2.24更新
 ```
+### [地图相关知识整理(Layer与Marker)](https://github.com/hedongxiaoshimei/webMap/blob/master/%E5%9C%B0%E5%9B%BE%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86(Layer%E4%B8%8EMarker).md)
+```
+主要整理了mapbox与百度地图在应用时,对 Layer 与 marker 的一些用法的展示与概念的描述 2019.3.4更新
+```
 - [x] 地图相关知识整理(地理坐标)
 - [x] 地图相关知识整理(地理信息)
 - [x] 地图相关知识整理(瓦片)
 - [x] 地图相关知识整理(GeoJSON)
-- [ ] 地图相关知识整理(Layer、Maker)
+- [x] 地图相关知识整理(Layer、Maker)
 - [ ] 地图相关知识整理(地图事件)
