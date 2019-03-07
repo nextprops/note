@@ -68,7 +68,7 @@ map.addLayer({
     }
 });
 ```
-![image](https://github.com/hedongxiaoshimei/webMap/blob/master/images/minemap%E7%BB%98%E5%88%B6%E7%BA%BF%E6%9D%A1.png)
+![image](./images/minemap%E7%BB%98%E5%88%B6%E7%BA%BF%E6%9D%A1.png)
 
 
  
